@@ -11,7 +11,7 @@ Building scalable web applications and leading development teams
 
 ## Experience
 - **1+ years commercial Java development**
-- **Tech Lead** with proven track record of improving team productivity by 30%
+- **main developer** with proven track record of improving team productivity by 30%
 - **Support** for junior developers
 - **CI/CD** setup and maintenance
 
