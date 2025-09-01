@@ -51,7 +51,7 @@ Building scalable web applications and leading development teams
 |----------|-------------|
 | English  | B1-B2       |
 | Russian  | C1          |
-| Kyrgyz   | native      |
+| Kyrgyz   | Native      |
 
 ## Let's Connect
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](out1of1mind1exception@gmail.com)
