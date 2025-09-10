@@ -56,7 +56,7 @@ Building scalable web applications and leading development teams
 ## Let's Connect
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](out1of1mind1exception@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OutOfMindException)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/%D0%B0%D0%B1%D0%B4%D1%83%D0%BB%D0%B1%D0%B0%D1%81%D0%B8%D1%82-%D0%BC%D0%B0%D0%BD%D1%83%D1%80%D0%BE%D0%B2-0b17a7370/))  
 
 ---
 *Always open to interesting projects and collaboration opportunities!*
