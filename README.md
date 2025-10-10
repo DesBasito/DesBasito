@@ -1,7 +1,7 @@
 # Hi there! I'm Abu 👋
 
 ## About Me
-Java Backend Developer from Bishkek, Kyrgyzstan 🇰🇬  
+Java Backend Developer from Bishkek, 
 Building scalable web applications and leading development teams
 
 
