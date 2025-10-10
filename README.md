@@ -35,8 +35,10 @@ Building scalable web applications and leading development teams
 ![Css](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor=blue)
 ![JS](https://img.shields.io/badge/Js(vanilla)-090909?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-## My Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DesBasito&show_icons=True&theme=highcontrast)](https://github.com/DesBasito/github-readme-stats)
+##
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesBasito&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## Experience
 - **1+ years commercial Java development**
