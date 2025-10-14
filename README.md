@@ -2,7 +2,7 @@
 
 ## About Me
 Java Backend Developer from Bishkek, 
-Building scalable web applications and leading development teams
+Building scalable web applications and experienced with leading development teams
 
 
 ## Languages and Tools
