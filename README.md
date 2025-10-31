@@ -52,7 +52,7 @@ Building scalable web applications and experienced with leading development team
 | Language | Proficiency |
 |----------|-------------|
 | English  | B1          |
-| Russian  | C1          |
+| Russian  | C один      |
 | Kyrgyz   | Native      |
 
 ## Let's Connect
