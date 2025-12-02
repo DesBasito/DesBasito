@@ -35,10 +35,6 @@ Building scalable web applications and experienced with leading development team
 ![Css](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor=blue)
 ![JS](https://img.shields.io/badge/Js(vanilla)-090909?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-##
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesBasito&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ## Experience
 - **1+ years commercial Java development**
